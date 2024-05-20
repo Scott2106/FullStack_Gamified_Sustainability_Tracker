@@ -5,7 +5,6 @@
 - run 'npm start' to start our own server in the local host(you may use 'npm run dev' to automatically restart our server after changes in codes are made).<br>
 - run the sql script in your MYSQL workbench.<br>
 - you may start interacting with the application through web pages. ## <br> 
-#### For illustrative purpose, the password is a lowercase version of the username, with no spaces. For example,username:Hermione Granger, password:hermionegranger ####
 <br>
 
 ![alt text](readMeImages/image-3.png)
