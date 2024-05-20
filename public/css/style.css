@@ -1,0 +1,10 @@
+body
+{
+    font-family: sans-serif;
+    background-color: #dcffef;
+}
+
+main
+{
+    min-height: calc(100vh - 56px - 56px);
+}
